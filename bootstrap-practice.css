@@ -1,0 +1,41 @@
+body {
+    margin-top: 50px;
+}
+
+.carousel {
+    height: 500px;
+    background-color: #000;
+    margin-bottom: 50px;;
+}
+
+.carousel .item {
+    height: 500px;
+    background-color: #000;
+}
+
+.carousel img {
+    width: 100%;
+}
+
+.carousel-caption p {
+    margin-bottom: 20px;
+    font-size: 20px;
+    line-height: 1.8;
+}
+
+#sum .col-xs-4 {
+    text-align: center;
+    border: 1px solid red;
+    background-color: #ccc;
+}
+
+hr #divider {
+    margin: 40px 0;
+}
+
+.mm {
+    padding:30px 0;
+}
+span{
+    font-size: 18px;
+}
