@@ -1,0 +1,9 @@
+.wrap{
+    color: #1f6053
+}
+/*ul:first-of-type{
+    color:red   ;
+}*/
+p+ul {
+    color:red;
+}
